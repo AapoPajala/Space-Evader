@@ -1,0 +1,9 @@
+C:\Users\a4po\Documents\Space Evader\.mono\temp\bin\ExportDebug\Space Evader.dll
+C:\Users\a4po\Documents\Space Evader\.mono\temp\bin\ExportDebug\Space Evader.pdb
+C:\Users\a4po\Documents\Space Evader\.mono\temp\obj\ExportDebug\Space Evader.csproj.AssemblyReference.cache
+C:\Users\a4po\Documents\Space Evader\.mono\temp\obj\ExportDebug\Space Evader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a4po\Documents\Space Evader\.mono\temp\obj\ExportDebug\Space Evader.AssemblyInfoInputs.cache
+C:\Users\a4po\Documents\Space Evader\.mono\temp\obj\ExportDebug\Space Evader.AssemblyInfo.cs
+C:\Users\a4po\Documents\Space Evader\.mono\temp\obj\ExportDebug\Space Evader.csproj.CoreCompileInputs.cache
+C:\Users\a4po\Documents\Space Evader\.mono\temp\obj\ExportDebug\Space Evader.dll
+C:\Users\a4po\Documents\Space Evader\.mono\temp\obj\ExportDebug\Space Evader.pdb
